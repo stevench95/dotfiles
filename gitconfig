@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = stevencheng926@gamil.com
+	name = steven
